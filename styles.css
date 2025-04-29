@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(Logo\ ELLL.jpg); /* Ganti dengan lokasi gambar kamu */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: #fff; /* Biar teks kontras */
+  }
+  
+  .container {
+    background-color: rgba(0, 0, 0, 0.6); /* Transparan gelap agar teks lebih terbaca */
+    padding: 20px;
+    max-width: 800px;
+    margin: 50px auto;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+ul {
+    list-style-type: none;
+    word-spacing: 0.7em;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+ul.kitab {
+    list-style-type: none;
+}
